@@ -1,0 +1,16 @@
+#bgImgCenter{
+    background-image: url('Resources/Website.png');
+    background-repeat:no-repeat;
+    
+    background-size: contain; width: 100vw;height: 100vh;;
+    
+}
+
+#blackdiv{
+    size: auto;
+    color: black;
+    background-color: black;
+}
+h1 {
+    color: rgba(255, 255, 255, 0);
+}
